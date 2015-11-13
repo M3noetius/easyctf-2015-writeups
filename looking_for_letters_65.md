@@ -16,4 +16,4 @@ If you need help, try looking at the Python Tutorial in the Learn section!
 
 ## External Writeups
 
-*None yet!*
+https://github.com/M3noetius/ctf-write-ups/blob/master/EasyCTF%202015.md#looking-for-letters-65
