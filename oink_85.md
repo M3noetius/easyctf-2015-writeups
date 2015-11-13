@@ -27,4 +27,4 @@ Words are defined as separated by spaces. :)
 
 ## External Writeups
 
-*None yet!*
+https://github.com/M3noetius/ctf-write-ups/blob/master/EasyCTF%202015.md#oink-85
